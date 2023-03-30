@@ -93,3 +93,5 @@ learning the language.
 introduction
 ---
 *Article is generated using ChatGPT.*
+
+Lorem ipsum dolor sit amet.
